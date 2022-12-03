@@ -1,0 +1,1 @@
+I'm fucking around right now. We dont know what we're doing yet. Unfortunately we dont have a plan right now. This is just and example of what a node repo would look like. 
